@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "Comprar verduras",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Comprar jamon",
+        "estado": "completado"
+    },
+    {
+        "titulo": "Comprar asado",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Comprar mandarinas",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "hacer ensalada de frutas",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "hacer pionono dulce",
+        "estado": "completado"
+    },
+    {
+        "titulo": "hacer pionono salado",
+        "estado": "completado"
+    },
+    {
+        "titulo": "hacer lomo a la pimienta",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "servir sandía con vino",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "hacer melon con jamon",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "hacer vitel tonet",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "comprar helado para el postre",
+        "estado": "pendiente"
+    }
+]
